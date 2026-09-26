@@ -15,6 +15,7 @@ Script provides a simple and intuitive way to visualize how a binary data sequen
   * **Manchester Encoding**
 * Displays each encoding as a time-domain waveform using `matplotlib`.
 * Also prints out **frequency-related parameters** (bit rate, bandwidth, etc.).
+* the value of the data can be changed in the first line of the code
 
 * <img width="542" height="135" alt="resultes ss" src="https://github.com/user-attachments/assets/df1ffeee-b8b0-4929-9f26-74cc051d1a07" />
 <img width="1486" height="972" alt="results ss" src="https://github.com/user-attachments/assets/77086680-681d-4175-80a8-3a7b21732f35" />
